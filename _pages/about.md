@@ -1,31 +1,29 @@
 ---
 layout:    about
 permalink: "/about/"
-author:    jwillmer
-keywords:  about person demo example
-title:     About Jens Willmer
+author:    rinormaloku
+keywords:  aboutme programming java frontend
+title:     About Rinor Maloku
 menutitle: About
 weight:    90
-excerpt:   This page contains the curriculum vitae (CV) of the author.
+excerpt:   Wanting to know more about me? In this section you will get to know me, how "I" want you to.
 ---
 
 ## Profile
 
-Integer sit amet libero non sapien sagittis dapibus. Phasellus gravida quam ac nisl finibus dictum. Pellentesque vel orci et nisi pretium tincidunt nec a diam. Vivamus et leo eu lorem congue pellentesque id sed tortor. Nulla et nibh neque. Sed ut fermentum lectus, id rhoncus erat.
+Interested in learning, coding and acquiring new skills. It gets boring when things don't offer much variety. In order to make projects more compelling I have to learn some new programming tech and apply it. This leads me to be skilled in everything, but master of nothing.
 
 ---
 
 ## Skills
 
-- Praesent ac augue imperdiet, interdum purus id, sollicitudin sem.
-- Sed pellentesque urna a magna suscipit volutpat.
-- Donec ultricies lectus non augue dictum hendrerit ac ac lorem.
-- Integer eget dui eu purus luctus posuere in non metus.
-- Nam ac felis eget tortor blandit gravida non et diam.
+- **Programming**. My speciality: learn fast, apply, forget.
+- **Problem Solving**. My speciality: solve in ways that everyone can think of, but nobody does.
+- **Design**. My speciality: design anything and be proud of, but reluctant to share.
 
 ---
 
 ## Education
 
-2009 - 2012
-: Mauris vitae velit vel leo suscipit tempus vel vel elit.
+2013 - 2016
+: University for Businness and Technology.

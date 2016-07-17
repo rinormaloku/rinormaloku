@@ -6,22 +6,26 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:        jekyllDecent
-subtitle:     Example Blog
-description:  This is the jekyllTheme example blog. It only exists to demonstrate how the theme looks and feels.
-keywords:     demo theme example github jekyll features
+title:        Coding Adventures
+subtitle:     Learning new things and dissecting them here.
+description:  The times when you learn something new and you need to write it in order to remember.
+keywords:     coding, learning, sharing ideas.
 language:     "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
 baseurl:      "" # the subpath of your site, e.g. /blog
-url:          "http://jwillmer.github.io/jekyllDecent" # the base hostname & protocol for your site. Have a look at robots.txt as well!
+url:          "http://rinormaloku.github.io" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:    /blog/:categories/:title
-cover:        /assets/mountain-cover.jpg
+cover:        /assets/Futucit.jpg
 
 # Build settings
 markdown: kramdown
 kramdown:
+  syntax_highlighter: rouge
   syntax_highlighter_opts:
-    disable: true
+    css_class: 'highlight'
+    block:
+      line_numbers: true
+      start_line: 1
 include: ['_pages']
 exclude: [vendor]
 gems:
