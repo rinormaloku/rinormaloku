@@ -2,7 +2,7 @@
 layout:            post
 title:             "Icon Picker - Introduction to Web Components"
 menutitle:         "Icon Picker - Introduction to Web Components"
-category:          Programming
+category:          PolymerJS
 author:            rinormaloku
 tags:              PolymerJS WebComponents
 ---

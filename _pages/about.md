@@ -17,9 +17,9 @@ Interested in learning, coding and acquiring new skills. It gets boring when thi
 
 ## Skills
 
-- **Programming**. My speciality: learn fast, apply, forget.
-- **Problem Solving**. My speciality: solve in ways that everyone can think of, but nobody does.
-- **Design**. My speciality: design anything and be proud of, but reluctant to share.
+- **Programming**. Speciality: learn fast, apply, forget.
+- **Problem Solving**. Speciality: solve in ways that everyone can think of, but nobody does.
+- **Design**. Speciality: design anything and be proud of, but never really happy.
 
 ---
 
