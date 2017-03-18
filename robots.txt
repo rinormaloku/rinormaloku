@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
-Host: http://rinormaloku.github.io
-# Host: http://jwillmer.github.io/jekyllDecent
+Host: https://rinormaloku.github.io
