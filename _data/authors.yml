@@ -5,7 +5,7 @@ default:                                                      # Fallback if noth
   picture:      /assets/rinormaloku.jpg                          # OPTIONAL: author picture
   bio:          Mastering one tool at a time.                        # OPTIONAL: text below author name in posts
   location:     Kosova                                       # OPTIONAL: used to display location of the author
-  website:      "http://rinormaloku.github.io"                # OPTIONAL: link to the author of a post
+  website:      "https://rinormaloku.github.io"                # OPTIONAL: link to the author of a post
   email:        rinormaloku37@gmail.com                           # OPTIONAL: used in the about page
   twitter:      rinorikomplet                                   # OPTIONAL: used in the about page
   linkedin:                                                   # OPTIONAL: used in the about page
@@ -26,6 +26,6 @@ rinormaloku:
   picture:      /assets/rinormaloku.jpg  
   bio:          Mastering one tool at a time.
   location:     Kosova 
-  website:      "http://rinormaloku.github.io" 
+  website:      "https://rinormaloku.github.io"
   twitter:      rinorikomplet
   github:       rinormaloku
