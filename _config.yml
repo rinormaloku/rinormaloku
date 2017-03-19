@@ -12,7 +12,7 @@ description:  The times when you learn something new and you need to write it in
 keywords:     coding, learning, sharing ideas.
 language:     "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
-baseurl:      "https://rinormaloku.github.io" # the subpath of your site, e.g. /blog
+baseurl:      "" # the subpath of your site, e.g. /blog
 url:          "https://rinormaloku.github.io" # the base hostname & protocol for your site. Have a look at robots.txt as well!
 permalink:    /blog/:categories/:title
 cover:        /assets/Futucit.jpg
