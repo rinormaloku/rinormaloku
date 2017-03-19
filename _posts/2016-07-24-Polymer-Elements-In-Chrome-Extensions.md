@@ -15,7 +15,16 @@ It should be a reference point when starting a new project, as the most part is 
 # Unlike - chrome extension
 Our extension hates Liking. The process of clicking the same icon again and again by so many people around the world irritates it. So it developed two functions:
 Function #1: Replaces Like icons with Dislike!
-Function #2: If that didn’t discourage liking, by activating the Hate it will disable the possibility to click ‘Like’.
+Function #2: If that didn’t discourage liking, by activating the "Hate", it will disable the possibility to click ‘Like’.
+
+During this Article we will often reference files so please clone and get acquainted with the code. [Link](https://github.com/rinormaloku/unlike)
+
+<aside>
+   <figure class="right">
+      <img src="/media/img/Unike.gif" />
+      <figcaption>Screen 1.</figcaption>
+   </figure>
+</aside>
 
 ## 1. The Manifest file 
 Manifest is a JSON file that is comprised of important information for chrome, which describes what the extension is going to do and what permissions it needs to.
@@ -40,7 +49,7 @@ Using the **Content_scripts** property we defined that the script applyOnPage.js
 This file enables control of browser related functionalities. E.g. **show**-ing or **hide**-ing the extension.
 
 ## Communication messages between scripts
-Communication between these scripts is done using messages. See Screen 1.
+Communication between these scripts is done using messages. See Screen 2.
 **Example:**
 1.	When a page on the Facebook domain is opened `applyOnPage.js` is executed.
 2.	applyOnPage sends a message with the action `show` and adds a listener for an `executeConsoleMessage` action, which we will use to print a console message.
@@ -49,7 +58,7 @@ Communication between these scripts is done using messages. See Screen 1.
 <aside>
    <figure class="right">
       <img src="/media/img/communication-messages.png" />
-      <figcaption>Screen 1.</figcaption>
+      <figcaption>Screen 2.</figcaption>
    </figure>
 </aside>
 
@@ -62,11 +71,11 @@ In this simplified example when the button "Print to console" is clicked:
 <aside>
    <figure class="left">
       <img src="/media/img/printToConsole.png" />
-      <figcaption>Screen 2.</figcaption>
+      <figcaption>Screen 3.</figcaption>
    </figure>
 </aside>
 
-## Modifications to support the Unlike functionalities
+## Polymer toggle-button to support the 2nd functionality 
 * ‘paper-toggle-button‘ is a costum element and to use it we need bower installation. [For more information see the link](https://elements.polymer-project.org/guides/using-elements)
 * * We imported webcomponentsjs and polymerjs
 * *	Used the paper-toggle-button in index.html
