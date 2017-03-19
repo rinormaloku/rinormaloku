@@ -24,7 +24,7 @@ Icon-picker tries to adhere to the **Ten Principles for Great General Purpose We
 Complete code [^1].
 
 <aside>
-   <figure class="right">
+1   <figure class="right">
       <img src="/media/img/2icon-picker.png" />
       <figcaption>Screen 2.</figcaption>
    </figure>

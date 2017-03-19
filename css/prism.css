@@ -212,25 +212,16 @@ pre.line-numbers > code {
 
 }
 
-.line-numbers-rows > span {
-	pointer-events: none;
-	display: block;
-	counter-increment: linenumber;
-}
+	.line-numbers-rows > span {
+		pointer-events: none;
+		display: block;
+		counter-increment: linenumber;
+	}
 
-.line-numbers-rows > span:before {
-	content: counter(linenumber);
-	color: #999;
-	display: block;
-	padding-right: 0.8em;
-	text-align: right;
-}
-
-.highlighter-rouge{
-	background: #f5f2f0;
-}
-		
-.highlighter-rouge .highlight table
-{
-	margin: 0 auto;
-}
+		.line-numbers-rows > span:before {
+			content: counter(linenumber);
+			color: #999;
+			display: block;
+			padding-right: 0.8em;
+			text-align: right;
+		}
