@@ -18,7 +18,6 @@ Function #1: Replaces Like icons with Dislike!
 Function #2: If that didn’t discourage liking, by activating the "Hate", it will disable the possibility to click ‘Like’.
 
 During this Article we will often reference files so please clone and get acquainted with the code. [Link](https://github.com/rinormaloku/unlike)
-
 <aside>
    <figure class="right">
       <img src="/media/img/Unike.gif" />
